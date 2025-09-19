@@ -1,0 +1,1 @@
+export default function About(){ return (<div className="card"><h1>About TravelGenius</h1><p>Independent meta-search experiment with a wellbeing-first travel score.</p></div>) }
